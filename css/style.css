@@ -700,15 +700,15 @@ header .fa-times{
 }
 
 .about-button{
-  height:3.5rem;
-  width:12rem;
+  height:2.5rem;
+  width:11rem;
   background:var(--violet);
   color:#fff;
   border:none;
   border-radius: 5rem;
   box-shadow: 0 .3rem 1rem rgba(0,0,0,.3);
   cursor: pointer;
-  font-size: 2rem;
+  font-size: 1.5rem;
   transition: .2s;
   text-align: center;
 }
